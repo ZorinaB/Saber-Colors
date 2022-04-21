@@ -4,10 +4,10 @@ print("Your fate lies upon this decision.. \nDepending on which color you choose
 
 Choice = input("Shall you accept this fate:\n") # gives user choice between continuing or terminating the program
 
-if Choice=='Yes':
+if Choice=='Yes''yes':
     print("Perfect... \nThe saber color options are:",Saber_Colors) # The array list is prompted to display if the user chooses to cont. the program
 
-elif Choice=='No': # Program is terminated with this option
+elif Choice=='No''no': # Program is terminated with this option
     print("So much potential wasted..\nPerhaps in another lifetime")
     exit()
 
